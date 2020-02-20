@@ -1,2 +1,0 @@
-# farmdiagnosticseurekaserver
-Service Discovery Server.
